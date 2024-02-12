@@ -30,7 +30,7 @@ url: "http://wadecanavan.github.io" # the base hostname & protocol for your site
 github_username:  WadeCanavan
 
 # Build settings
-remote_theme: pages-themes/leap-day@v0.2.0
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-remote-theme 
   - jekyll-feed
