@@ -22,8 +22,8 @@ title: Wade Canavan
 email: wacanava@mtu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   portfolio of Wade Canavan
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "http://WadeCanavan.com" # the subpath of your site, e.g. /blog
+url: "http://WadeCanavan.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  WadeCanavan
 
 # Build settings
