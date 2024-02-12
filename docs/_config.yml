@@ -21,9 +21,11 @@
 title: Wade Canavan
 email: wacanava@mtu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Driven 4th year computer science major seeking a company to challenge me and grow 
+  Driven 4th year computer science major with experience in software design and development.
+  Eager in utilizing my communication, problem solving, and software development skills to 
+  create software that improves lives. Seeking a company to challenge me and grow 
   my skill set full-time beginning in December 2024. 
-baseurl: "/about" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  WadeCanavan
 
