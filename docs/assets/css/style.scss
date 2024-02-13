@@ -3,6 +3,10 @@
 
 @import 'jekyll-theme-leap-day';
 
+header {
+    display: none;
+  }
+
 body {
     font: unset;
     color: #000000;
@@ -13,6 +17,6 @@ body {
     border: none;
 }
 
-#button{
+button{
     background:  #55ca55;
 }
