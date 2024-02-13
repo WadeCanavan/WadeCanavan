@@ -12,7 +12,13 @@ body {
     background:  #75ee75;
     border: none;
 }
+
 #banner .button { 
+    background: linear-gradient( #8fcc8f, #41c941);
+    background-color: #8fcc8f;
+    border: #46a746;}
+
+#banner .fork{ 
     background: linear-gradient( #8fcc8f, #41c941);
     background-color: #8fcc8f;
     border: #46a746;}
@@ -20,6 +26,7 @@ body {
 button{
     background:  #55ca55;
 }
+
 footer{
     display: none;
 }
