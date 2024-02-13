@@ -1,27 +1,23 @@
---- --- @import 'jekyll-theme-leap-day';
+---
+---
 
+@import 'jekyll-theme-leap-day';
+  
 body {
     font: unset;
     color: #000000;
 }
 
-#banner {
-    background: #75ee75;
+#banner { 
+    background:  #75ee75;
     border: none;
 }
+#banner .button { 
+    display: none;}
 
-#banner .button {
-    display: none;
+button{
+    background:  #55ca55;
 }
-
-#banner .fork {
-    background-color: #8fcc8f;
-}
-
-button {
-    background: #55ca55;
-}
-
-footer {
+footer{
     display: none;
 }
